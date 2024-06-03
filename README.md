@@ -3,10 +3,7 @@
 
 <br>
 
-![](https://img.shields.io/github/forks/Candida18/College-Enquiry-Chatbot?style=for-the-badge) &emsp; &emsp;
-![](https://img.shields.io/github/stars/Candida18/College-Enquiry-Chatbot?style=for-the-badge) &emsp; &emsp;
-![](https://img.shields.io/github/issues/Candida18/College-Enquiry-Chatbot?style=for-the-badge) &emsp; &emsp;
-![](https://img.shields.io/github/license/Candida18/College-Enquiry-Chatbot?style=for-the-badge) &emsp; &emsp;
+
 
 <br>
 
@@ -79,13 +76,13 @@
   
    <h3> <li>  <b> Login Page : </b></h3>
      <p align="left"> 
-         <kbd><img src="https://github.com/Candida18/College-Enquiry-Chatbot/blob/main/CRCE%20Bot/Images_ss/login.png" alt="login" /> </kbd>
+         <kbd><img src="https://github.com/Saiji07/AIML-Project-Series-phase1-project2/blob/main/CRCE%20Bot/Images_ss/login.png" alt="login" /> </kbd>
       </p>
   </li>
   
  <h3>   <li> <b> Forgot Password Page : </b></h3>
      <p align="left"> 
-         <kbd><img src="https://github.com/Candida18/College-Enquiry-Chatbot/blob/main/CRCE%20Bot/Images_ss/forgot_password.png" alt="forgot_password" /> </kbd>
+         <kbd><img src="https://github.com/Saiji07/AIML-Project-Series-phase1-project2/blob/main/CRCE%20Bot/Images_ss/forgot_password.png" alt="forgot_password" /> </kbd>
       </p>
   </li>
   
