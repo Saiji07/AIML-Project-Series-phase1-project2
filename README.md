@@ -107,7 +107,7 @@
   
   <h3>  <li> <b> Chatbot - Suggestion Box : </b></h3>
      <p align="left"> 
-         <kbd><img src="https://github.com/Candida18/College-Enquiry-Chatbot/blob/main/CRCE%20Bot/Images_ss/suggestion_box.png" alt="suggestion_box" /> </kbd>
+         <kbd><img src="https://github.com/Saiji07/AIML-Project-Series-phase1-project2/blob/main/CRCE%20Bot%20college/Images_ss/suggestion_box.png" alt="suggestion_box" /> </kbd>
       </p>
   </li>
   </ol>
