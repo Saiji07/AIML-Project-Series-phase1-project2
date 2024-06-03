@@ -101,7 +101,7 @@
   
  <h3>  <li>  <b> Chatbot - About Us : </b></h3>
      <p align="left"> 
-         <kbd><img src="https://github.com/Candida18/College-Enquiry-Chatbot/blob/main/CRCE%20Bot/Images_ss/about_us.png" alt="about_us" /> </kbd>
+         <kbd><img src="https://github.com/Saiji07/AIML-Project-Series-phase1-project2/blob/main/CRCE%20Bot%20college/Images_ss/about_us.png"alt="about_us" /> </kbd>
       </p>
   </li>
   
