@@ -70,32 +70,32 @@
 <ol>
 <h3> <li>  <b> Register Page : </b></h3>
      <p align="left"> 
-         <kbd><img src="https://github.com/Candida18/College-Enquiry-Chatbot/blob/main/CRCE%20Bot/Images_ss/register.png" alt="register" /> </kbd>
+         <kbd><img src="https://github.com/Saiji07/AIML-Project-Series-phase1-project2/blob/main/CRCE%20Bot%20college/Images_ss/register.png" alt="register" /> </kbd>
       </p>
   </li>
   
    <h3> <li>  <b> Login Page : </b></h3>
      <p align="left"> 
-         <kbd><img src="https://github.com/Saiji07/AIML-Project-Series-phase1-project2/blob/main/CRCE%20Bot/Images_ss/login.png" alt="login" /> </kbd>
+         <kbd><img src="https://github.com/Saiji07/AIML-Project-Series-phase1-project2/blob/main/CRCE%20Bot%20college/Images_ss/login.png" alt="login" /> </kbd>
       </p>
   </li>
   
  <h3>   <li> <b> Forgot Password Page : </b></h3>
      <p align="left"> 
-         <kbd><img src="https://github.com/Saiji07/AIML-Project-Series-phase1-project2/blob/main/CRCE%20Bot/Images_ss/forgot_password.png" alt="forgot_password" /> </kbd>
+         <kbd><img src="https://github.com/Saiji07/AIML-Project-Series-phase1-project2/blob/main/CRCE%20Bot%20college/Images_ss/forgot_password.png" alt="forgot_password" /> </kbd>
       </p>
   </li>
   
   
  <h3>  <li>  <b> Chatbot - Default Screen : </b></h3>
      <p align="left"> 
-         <kbd><img src="https://github.com/Candida18/College-Enquiry-Chatbot/blob/main/CRCE%20Bot/Images_ss/default_screen_chatbot.png" alt="default_screen_chatbot" /> </kbd>
+         <kbd><img src="https://github.com/Saiji07/AIML-Project-Series-phase1-project2/blob/main/CRCE%20Bot%20college/Images_ss/default_screen_chatbot.png" alt="default_screen_chatbot" /> </kbd>
       </p>
   </li>
   
   <h3> <li>  <b> Chatbot - Query : </b></h3>
      <p align="left"> 
-         <kbd><img src="https://github.com/Candida18/College-Enquiry-Chatbot/blob/main/CRCE%20Bot/Images_ss/chatbot_query_2.png" alt="chatbot_query_2" /> </kbd>
+         <kbd><img src="https://github.com/Saiji07/AIML-Project-Series-phase1-project2/blob/main/CRCE%20Bot%20college/Images_ss/chatbot_query_2.png" alt="chatbot_query_2" /> </kbd>
       </p>
   </li>
   
